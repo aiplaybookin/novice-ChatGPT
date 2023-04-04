@@ -14,4 +14,4 @@ Invoices from different vendor with different formats in pdfs [check here](./dat
 
 
 ## Working code :
-[Check the notebook](./LlamaIndex(UnstructuredToStructured)GuardRails1_ipynb.ipynb)
+[Check the notebook](./LlamaIndex(UnstructuredToStructured)GuardRails.ipynb)
