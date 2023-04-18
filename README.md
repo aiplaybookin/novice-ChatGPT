@@ -1,14 +1,23 @@
-# novice-ChatGPT
-ChatGPT API Usage using -
+# Use cases/ Experimentation with ChatGPT
+ChatGPT API Usage using - [Llamaindex](https://gpt-index.readthedocs.io/en/latest/index.html), [OpenAI](https://openai.com), [Guardrails](https://shreyar.github.io/guardrails/), [LangChain](https://python.langchain.com/en/latest/index.html) and more...
 
-- [Llamaindex](https://gpt-index.readthedocs.io/en/latest/index.html) 
-- [OpenAI](https://openai.com) and 
-- [Guardrails](https://shreyar.github.io/guardrails/)
-- [LangChain](https://python.langchain.com/en/latest/index.html)
-
+#
 # 1. [Unstructured to Structured](./unstructuredToStructured/) ( pdfs invoices to pandas DataFrame)
-### Source e.g.
-![source pdf](./unstructuredToStructured/images/pdf.png)
+### Source PDF files e.g.
+<img src="./unstructuredToStructured/images/pdf.png" alt="source pdf" width="300" height="100"/>
 
-### Target e.g.
-![source pdf](./unstructuredToStructured/images/table.png)
+### Target DataFrame e.g.
+<img src="./unstructuredToStructured/images/table.png" alt="targetdf" width="300" height="100"/>
+
+#
+# 2. [NewsLetters](./newsLetter/)
+
+Demo
+
+<img src="./newsLetter/images/newsletter_gif1.gif" alt="flow" width="300" height="200"/>
+
+
+Generic Work flow (WIP emails automation etc)
+
+<img src="./newsLetter/images/flow.png" alt="flow" width="300" height="100"/>
+
