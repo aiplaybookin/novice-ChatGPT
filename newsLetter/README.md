@@ -1,6 +1,6 @@
 ## Demo
 
-<img src="./images/newsletter_gif1.gif" alt="flow" width="900" height="500"/>
+<img src="./images/newsletter.gif" alt="flow" width="900" height="500"/>
 
 
 ## Objective
