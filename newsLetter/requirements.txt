@@ -1,0 +1,8 @@
+spacy
+llama-index
+streamlit
+reportlab
+openai
+nltk
+GoogleNews
+newspaper3k

@@ -19,5 +19,7 @@ Demo
 
 Generic Work flow (WIP emails automation etc)
 
-<img src="./newsLetter/images/flow.png" alt="flow" width="100" height="300"/>
+<img src="./newsLetter/images/flow.png" alt="flow" width="250" height="400"/>
 
+
+**Hit ⭐️ if you appreciate it**
