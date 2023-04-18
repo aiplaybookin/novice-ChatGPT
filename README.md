@@ -14,10 +14,10 @@ ChatGPT API Usage using - [Llamaindex](https://gpt-index.readthedocs.io/en/lates
 
 Demo
 
-<img src="./newsLetter/images/newsletter_gif1.gif" alt="flow" width="700" height="500"/>
+<img src="./newsLetter/images/newsletter_gif1.gif" alt="flow" width="900" height="500"/>
 
 
 Generic Work flow (WIP emails automation etc)
 
-<img src="./newsLetter/images/flow.png" alt="flow" width="800" height="500"/>
+<img src="./newsLetter/images/flow.png" alt="flow" width="800" height="300"/>
 
