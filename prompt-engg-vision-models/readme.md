@@ -28,5 +28,20 @@ Vision Transformer for Open-World Localization
 
 ![alt text](owl-vit.png)
 
+# L4 : Image Generation
 
+- Using diffusion models
+- In-painting
+
+![alt text](diffusionModel.png)
+
+
+**Hyper Parameter**
+Quality id influenced by -
+1. No of Inferences : Higher the value more realistic and high resolution
+2. Guidance Value 
+3. Strength : unique to image to imgae - how much noise to add and remove. May not need to tweak - need to be tested.
+4. Negative prompt : Image to not look like, e.g. "cartoon"
+
+![alt text](guidance.png)
 
