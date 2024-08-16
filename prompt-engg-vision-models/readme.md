@@ -1,4 +1,10 @@
 # L1 Overview
+- Basic of Prompt Engg.
+Prompt can be - Text, image, video , audio
+
+Other References :
+- Sharon Zhou - How diffusion model works
+
 
 # L2 Image Segmentation 
 Assigning labels to each pixel
