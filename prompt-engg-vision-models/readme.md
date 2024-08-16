@@ -82,3 +82,6 @@ Seed must be set to have reproducible results.
 ![alt text](guidance.png)
 
 # L5 : Fine-tuning 
+
+- Use of LoRA
+- Use of Dreambooth trainer
